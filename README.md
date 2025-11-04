@@ -1,31 +1,58 @@
-<h1 align="center">Hi, I'm Sepehr</h1>
-<h3 align="center">Graduate research assisstant</h3>
 
-<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sepehrsardooeinasab&label=Profile%20views&color=0e75b6&style=flat" alt="sepehrsardooeinasab" /> </p> 
+<h2> Hi, I am Sepehr! 
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  -->
+</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sepehr-sardooeinasab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sepehr-sardooeinasab" height="30" width="40" /></a>
-</p>
--->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> -->
-  <!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <!-- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  -->
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <!-- <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>  -->
-  <!-- <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> -->
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sepehr%20Sardooeinasab-blue?style=flat-square&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sepehr-sardooeinasab/)
 
-<!--
-<h3 align="left">States:</h3>
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sepehrsardooeinasab&" alt="sepehrsardooeinasab" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sepehrsardooeinasab&show_icons=true&locale=en&layout=compact" alt="sepehrsardooeinasab" /></p> 
--->
+<!-- [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/XY)](https://www.kaggle.com/XY)  -->
+<!-- [![Gmail Badge](https://img.shields.io/badge/-XY-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:XY)](mailto:XY)  -->
+<!-- ![](https://github.com/sepehrsardooeinasab)<img src="https://img.shields.io/github/followers/sepehrsardooeinasab?style=social">  -->
+<!-- <img src="https://img.shields.io/twitter/follow/XY?style=social">  -->
+ 
+
+I am a <b>Master’s student</b> at <a href="https://www.etsmtl.ca/">ÉTS Montreal</a>, where I work under the supervision of Professors <a href="https://www.etsmtl.ca/en/study-at-ets/professors/mforouzanfar">Mohamad Forouzanfar</a> and <a href="https://scholar.google.com/citations?user=PsR6NFYAAAAJ">Massimiliano De Zambotti</a> in the <a href="https://www.etsmtl.ca/laboratoires/livia">Laboratory for Imaging, Vision and Artificial Intelligence (LIVIA)</a>. I am close to completing my Master’s degree with a perfect GPA of <b>4.3/4.3</b>. My primary research focuses on <b>biomedical signal processing</b> and the application of <b>artificial intelligence in healthcare</b>.<br>
+
+Alongside my studies, I volunteered for one year with <a href="https://edu.ieee.org/ca-etsmtl/en/">IEEE ÉTS</a>, contributing to student-led initiatives that promote innovation and collaboration in engineering.<br>
+
+Before joining ÉTS, I completed my <b>Bachelor’s degree</b> in Electrical Engineering at <a href="https://en.kntu.ac.ir/">K. N. Toosi University of Technology (KNTU)</a>, advised by Professor <a href="https://scholar.google.com/citations?user=HM4JiZ4AAAAJ&hl=en">Ali Khadem</a>. During my undergraduate studies, I completed a three-month research internship at the <a href="https://nabzgroup.com/en">NABZ Group</a>.<br>
+
+<!-- In my free time, I enjoy listening to music 
+<a href="https://open.spotify.com/">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white" height="15">
+</a>, 
+playing video games 
+<a href="https://www.playstation.com/">
+  <img src="https://img.shields.io/badge/PlayStation-003791?style=flat-square&logo=playstation&logoColor=white" height="15">
+</a>, 
+and watching movies 
+<a href="https://www.imdb.com/">
+  <img src="https://img.shields.io/badge/IMDb-F5C518?style=flat-square&logo=imdb&logoColor=black" height="15">
+</a>.
+<br> -->
+  
+<h2> Languages </h2>
+<img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img height="20" src="https://img.shields.io/badge/MatLab-%23E16737.svg?style=for-the-badge&logo=matlab&logoColor=white"> 
+<img height="20" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
+<img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+<img height="20" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"> 
+
+<h2> Libraries </h2>
+<img height="20" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
+<img height="20" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+<img height="20" src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white">
+
+<h2> Tools </h2>
+<img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img height="20" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+<img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+<img height="20" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
