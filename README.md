@@ -2,8 +2,9 @@
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  -->
 </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sepehrsardooeinasab&label=Profile%20views&color=0e75b6&style=flat" alt="sepehrsardooeinasab" /> </p>
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sepehr%20Sardooeinasab-blue?style=flat-square&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sepehr-sardooeinasab/)
+-->
 
 - 🔭 ML Engineer who likes building things that actually work
 - 🎮 Outside of work — I'm gaming or listening to music
