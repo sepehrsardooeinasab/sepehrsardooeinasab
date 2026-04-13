@@ -7,6 +7,7 @@
 -->
 
 🔭 ML Engineer who enjoys building things that actually work
+
 🎮 Outside of work, I enjoy gaming, exploring new music, and staying curious about new tech
 
 <!-- [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/XY)](https://www.kaggle.com/XY)  -->
