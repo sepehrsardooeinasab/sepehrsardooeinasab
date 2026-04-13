@@ -1,4 +1,4 @@
-<h2 align="center"> Welcome to my profile, I'm Sepehr
+<h2 align="center"> Welcome to my profile, I'm Sepehr 👋
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  -->
 </h2>
 
@@ -6,8 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sepehr%20Sardooeinasab-blue?style=flat-square&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sepehr-sardooeinasab/)
 -->
 
-- 🔭 ML Engineer who likes building things that actually work
-- 🎮 Outside of work — I'm gaming or listening to music
+🔭 ML Engineer who enjoys building things that actually work
+🎮 Outside of work, I enjoy gaming, exploring new music, and staying curious about new tech
 
 <!-- [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/XY)](https://www.kaggle.com/XY)  -->
 <!-- [![Gmail Badge](https://img.shields.io/badge/-XY-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:XY)](mailto:XY)  -->
