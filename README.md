@@ -59,4 +59,11 @@ and watching movies
 <img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> -->
 
-[![Sepehr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sepehrsardooeinasab)](https://github.com/sepehrsardooeinasab/github-readme-stats)
+<!--[![Sepehr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sepehrsardooeinasab)](https://github.com/sepehrsardooeinasab/github-readme-stats) -->
+
+<p align="center">
+<a href="https://github.com/sepehrsardooeinasab">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sepehrsardooeinasab&show_icons=true&theme=flat&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sepehrsardooeinasab&layout=compact&langs_count=8&theme=flat"/>
+</a>
+</p>
