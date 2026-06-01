@@ -1,12 +1,12 @@
-<h2 align="center"> Welcome to my profile, I'm Sepehr 👋
-<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  -->
+<h2 align="center"> Welcome to my profile, I'm Sepehr
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 </h2>
 
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sepehr%20Sardooeinasab-blue?style=flat-square&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sepehr-sardooeinasab/)
 -->
 
-🔭 ML Engineer who enjoys building things that actually work
+🔭 Data Scientist and ML Engineer who enjoys building things that actually work
 
 🎮 Outside of work, I enjoy gaming, exploring new music, and staying curious about new tech
 
@@ -29,23 +29,34 @@ and watching movies
 </a>.
 <br> -->
 
-<!--
-<h2> Languages, Libraries & Tools</h2>
-<p> -->
+
+<h2> Main Languages, and Libraries</h2>
+<p> 
 
 <!-- <img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  -->
-<!-- <img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-<img height="20" src="https://img.shields.io/badge/MatLab-%23E16737.svg?style=for-the-badge&logo=matlab&logoColor=white"> 
-<img height="20" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
+<img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img height="20" src="https://img.shields.io/badge/MatLab-%23E16737.svg?style=for-the-badge&logo=matlab&logoColor=white">
+<!-- <img height="20" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> -->
+<!-- <img height="20" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">   -->
 
-<img height="20" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"> 
+
+<img height="20" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> 
+<!-- <img height="20" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> -->
+<img height="20" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> 
+<img height="20" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> 
+<!-- <img height="20" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"> <br/> -->
+<!-- <img height="20" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> -->
+<img height="20" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"> 
+<!--<img height="20" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"> -->
+<!-- <img height="20" src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white"> -->
 </p>
 
+<!--
 <p>
-<img height="20" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> <img height="20" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img height="20" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"> <br/><img height="20" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> <img height="20" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"> <img height="20" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"> <img height="20" src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white">
-</p>
+<img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+<img height="20" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"> 
+<img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> -->
 
-<p>
-<img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img height="20" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"> <img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img height="20" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-</p> -->
+[![Sepehr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sepehrsardooeinasab)](https://github.com/sepehrsardooeinasab/github-readme-stats)
