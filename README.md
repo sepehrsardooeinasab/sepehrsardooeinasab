@@ -61,9 +61,11 @@ and watching movies
 
 <!--[![Sepehr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sepehrsardooeinasab)](https://github.com/sepehrsardooeinasab/github-readme-stats) -->
 
+<!--
 <p align="center">
 <a href="https://github.com/sepehrsardooeinasab">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sepehrsardooeinasab&show_icons=true&theme=flat&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sepehrsardooeinasab&layout=compact&langs_count=8&theme=flat"/>
 </a>
 </p>
+-->
